@@ -1,0 +1,1 @@
+A dHash implementation with Golang. It can calculate hash value of given image or Hamming Distance between two 128-bit dHash values.
